@@ -1,0 +1,25 @@
+p{
+    color:crimson;
+    background-color: blue
+    fonte-size: 32px;
+}
+.h1{
+color:lightblue;
+border:0.5px dashed darkgrey
+}
+.p2{
+    color:blueviolet
+}
+.p3{
+    color:brown;
+    background-color:chocolate;
+    font: size 20px;
+
+}
+.p4{
+    color:aqua;
+     background-color:burlywood
+}
+body{
+    background-color:antiquewhite
+}
